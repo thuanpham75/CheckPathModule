@@ -1,0 +1,84 @@
+body {
+	background-image: url("../images/slide5.jpg");
+	background-repeat: repeat;
+	background-attachment:fixed;
+	font-weight: bold;
+	color: #fff;
+} 
+h2 {
+	color: #16c1ff;
+	font-weight: bold;
+
+}
+.content {
+	background:rgba(0,0,0,0.6); 
+	
+	 border: 1px solid #fff;
+   
+   
+	margin-top: 50px;
+	margin-bottom: 50px;
+
+}
+.logo img {
+	padding-top: 50px;
+	margin: auto 200px;
+}
+label {
+	font-weight: bold;
+	font-size: 20px;
+}
+a{
+	cursor: pointer;
+	padding: 10px;
+	background: none;
+	font-size: 14px;
+	font-weight: bold;
+
+}
+li {
+	margin-top: 10px;
+	padding-bottom: 20px;
+}
+ul {
+	margin-top: -20px;
+	display: inline-block;
+	padding: 20px;
+	border-color: green;
+}
+input {
+	font-weight: bold;
+
+}
+
+.result .kq {
+	text-align: center;
+
+}
+.address1 {
+	margin:auto 90px;
+}
+.address1 li {
+	list-style: none;
+	margin-top: -10px;
+	font-weight: bold;
+}
+.fa-folder:before {
+	color: 	#F4D67A;
+}
+/*#hidden {
+	display: none;
+}*/
+.true {
+	font-size: 25px;
+	text-align: center;
+}
+.false {
+	font-size: 25px;
+	text-align: center;
+}
+#show {
+    margin-left: 80px;
+    position: relative;
+    top: -38px;
+}
